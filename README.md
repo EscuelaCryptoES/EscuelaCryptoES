@@ -48,7 +48,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <img height="32px" src="https://img.icons8.com/nolan/344/github.png">
             <td width="80px" align="center">
             <span><strong>Truffle Suite</strong></span><br>
             <img height="32px" src="https://trufflesuite.com/assets/logo.png">
