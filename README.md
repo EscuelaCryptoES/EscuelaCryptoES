@@ -50,7 +50,7 @@
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://img.icons8.com/nolan/344/github.png">
             <td width="80px" align="center">
-            <span><strong>Truffle Suite</strong></span><br>
+            <span><strong>Truffle</strong></span><br>
             <img height="32px" src="https://trufflesuite.com/assets/logo.png">
             </td>
         </tr>
