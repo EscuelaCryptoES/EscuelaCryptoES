@@ -22,7 +22,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Solidity</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
+            <img height="32px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png">
             </td>
             <td width="80px" align="center">
             <span><strong>JavaScript</strong></span><br>
