@@ -12,7 +12,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/EscuelaCryptoES">Github</a>, unfortunately the freelancer ones are mostly private 😕 sorry!.</li>
 <li>📝 You can find me on our <a href="https://t.me/EscuelaCrypto">Telegram comunity</a>.</li>
 <li>💬 Ping me about <strong>Solidity, vyper and cool blockchain projects</strong>.</li>
-<li>📙 Check out my <a href="">resume</a>.</li>
+<li>📙 Check out my <a href="https://github.com/EscuelaCryptoES/EscuelaCryptoES/blob/main/CV_JuanCarlosCantoMartinez.pdf">resume</a>.</li>
 <li>🎉 Fun Fact: Bears eat beets.</li>
 </ul>
 <h2>💻 My daily drivers</h2>
